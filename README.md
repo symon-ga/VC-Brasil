@@ -1,4 +1,3 @@
-# VC-Brasil
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
